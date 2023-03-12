@@ -4,6 +4,7 @@ The first portfolio website i made for a school project.
 # Technologies
 This project was made using the following technologies: <br />
 • Php <br />
+• Javascript <br />
 • Css <br />
 • SQL
 
