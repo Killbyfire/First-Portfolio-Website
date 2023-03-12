@@ -2,9 +2,9 @@
 The first portfolio website i made for a school project.
 
 # Technologies
-This project was made using the following technologies:
-• Php
-• Css
+This project was made using the following technologies: <br />
+• Php <br />
+• Css <br />
 • SQL
 
 # Preview
